@@ -1,2 +1,2 @@
 # website-rony
-This Repository is for My 3D Website
+This Repository is for Personal Website
